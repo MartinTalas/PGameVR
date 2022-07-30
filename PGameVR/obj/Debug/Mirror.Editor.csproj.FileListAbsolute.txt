@@ -1,0 +1,2 @@
+C:\GitHub\Szakdolgozat_GKPLJP\obj\Debug\Mirror.Editor.csproj.CoreCompileInputs.cache
+C:\GitHub\Szakdolgozat_GKPLJP\obj\Debug\Mirror.Editor.csproj.AssemblyReference.cache
